@@ -2,6 +2,7 @@
 layout: default
 title:  "Introduction to NGS"
 date: 2021-06-06
+permalink: /ngsacad/:title/
 ---
 
 {% include subpage-header.html %}
