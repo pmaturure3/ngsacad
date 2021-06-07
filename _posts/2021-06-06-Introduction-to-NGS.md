@@ -2,7 +2,7 @@
 layout: default
 title:  "Introduction to NGS"
 date: 2021-06-06
-permalink: /ngsacad/:year/:month/:day/Introduction-to-NGS.html
+permalink: /ngsacad/:year/:month/:day/:title
 
 ---
 

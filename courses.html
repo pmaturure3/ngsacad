@@ -19,7 +19,7 @@ permalink: /courses/
     <ul>
       {% for post in site.posts %}
       <li>
-        <p><a href="{{ post.url }}">{{ post.title }}</a> <small class="text-muted">posted: {{ post.date |
+        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <small class="text-muted">posted: {{ post.date |
             date_to_string}} </small>
         </p>
       </li>
