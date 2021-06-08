@@ -13,4 +13,4 @@ Genetic epidemiology\
 **https://www.coursera.org/learn/genetic-epidemiology**\
 
 Bacterial BioInformatics\
-**https://www.coursera.org/learn/informatics**\
+**https://www.coursera.org/learn/informatics**
