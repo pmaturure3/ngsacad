@@ -9,8 +9,8 @@ permalink: /:year/:month/:day/:title
 {% include subpage-header.html %}
 
 **Relevant courses offered by Coursera**\
-Genetic epidemiology
-**https://www.coursera.org/learn/genetic-epidemiology** \
+Genetic epidemiology\
+**https://www.coursera.org/learn/genetic-epidemiology**\
 
-Bacterial BioInformatics
-**https://www.coursera.org/learn/informatics** \
+Bacterial BioInformatics\
+**https://www.coursera.org/learn/informatics**\
