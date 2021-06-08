@@ -8,8 +8,8 @@ permalink: /:year/:month/:day/:title
 
 {% include subpage-header.html %}
 
-**Relevant courses offered by Coursera**
-Essentials of Genomics and Biomedical Informatics \
-**https://www.edx.org/course/essentials-of-genomics-and-biomedical-informatics** 
+**Relevant courses offered by Coursera**\
+Essentials of Genomics and Biomedical Informatics 
+**https://www.edx.org/course/essentials-of-genomics-and-biomedical-informatics**\
 
 
