@@ -8,6 +8,6 @@ permalink: /:year/:month/:day/:title
 
 {% include subpage-header.html %}
 
-**Data carpentry genomics curriculum**\
+**Data Carpentry Genomics Curriculum**\
 [https://datacarpentry.org/genomics-workshop/](https://datacarpentry.org/genomics-workshop/)
 
