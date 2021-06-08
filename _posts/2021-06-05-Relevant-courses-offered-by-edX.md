@@ -10,6 +10,5 @@ permalink: /:year/:month/:day/:title
 
 **Relevant courses offered by Coursera**\
 Essentials of Genomics and Biomedical Informatics\
-**https://www.edx.org/course/essentials-of-genomics-and-biomedical-informatics**
-
+[https://www.edx.org/course/essentials-of-genomics-and-biomedical-informatics](https://www.edx.org/course/essentials-of-genomics-and-biomedical-informatics)
 
