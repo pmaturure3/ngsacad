@@ -2,7 +2,7 @@
 layout: default
 title:  "NGS SARS-COV-2 training"
 date: 2021-06-09
-permalink: /:year/:month/:day/:title
+permalink: /:year/:title
 
 ---
 
