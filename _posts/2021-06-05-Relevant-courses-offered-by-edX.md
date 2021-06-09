@@ -2,7 +2,7 @@
 layout: default
 title:  "Relevant courses offered by edX"
 date: 2021-06-05
-permalink: /:year/:month/:day/:title
+permalink: /:year/:title
 
 ---
 

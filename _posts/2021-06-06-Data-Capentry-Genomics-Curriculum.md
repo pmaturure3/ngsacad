@@ -2,7 +2,7 @@
 layout: default
 title:  "Data Carpentry Genomics Curriculum"
 date: 2021-06-06
-permalink: /:year/:month/:day/:title
+permalink: /:year/:title
 
 ---
 

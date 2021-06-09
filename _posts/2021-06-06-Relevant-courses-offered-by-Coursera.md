@@ -2,7 +2,7 @@
 layout: default
 title:  "Relevant courses offered by Coursera"
 date: 2021-06-06
-permalink: /:year/:month/:day/:title
+permalink: /:year/:title
 
 ---
 
