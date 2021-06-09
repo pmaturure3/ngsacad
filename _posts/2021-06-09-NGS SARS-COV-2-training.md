@@ -10,18 +10,19 @@ permalink: /:year/:month/:day/:title
 
 
 **Africa NGS SARS-COV-2 training course 2021**\
-Module 1:   Introduction to Epidemiology, NGS\
 
-Module 2:   Wet lab and sample preparation\
+Module 1:   Introduction to Epidemiology, NGS
 
-Module 3:   Oxford Nanopore Technologies workflow\
+Module 2:   Wet lab and sample preparation
 
-Module 4:   Illumina workflow\
+Module 3:   Oxford Nanopore Technologies workflow
 
-Module 5:   Phylogenetics\
+Module 4:   Illumina workflow
 
-Module 7:   Galaxy, IRIDA training materials\
+Module 5:   Phylogenetics
 
-Module 9:  Nextstrain\
+Module 7:   Galaxy, IRIDA training materials
 
-Module 11:  KRISP training materials\
+Module 9:  Nextstrain
+
+Module 11:  KRISP training materials
