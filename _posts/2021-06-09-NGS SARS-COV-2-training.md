@@ -8,5 +8,6 @@ permalink: /:year/:month/:day/:title
 
 {% include subpage-header.html %}
 
+
 **Africa NGS SARS-COV-2 training course 2021**\
 Module 1:   Introduction to Epidemiology, NGS

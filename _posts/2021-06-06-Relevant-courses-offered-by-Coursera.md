@@ -8,6 +8,7 @@ permalink: /:year/:month/:day/:title
 
 {% include subpage-header.html %}
 
+
 **Relevant courses offered by Coursera**\
 Genetic epidemiology\
 [https://www.coursera.org/learn/genetic-epidemiology](https://www.coursera.org/learn/genetic-epidemiology)
