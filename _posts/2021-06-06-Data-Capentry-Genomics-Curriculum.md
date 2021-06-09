@@ -7,7 +7,7 @@ permalink: /:year/:month/:day/:title
 ---
 
 {% include subpage-header.html %}
-
+ <br />
 
 **Data Carpentry Genomics Curriculum**\
 [https://datacarpentry.org/genomics-workshop/](https://datacarpentry.org/genomics-workshop/)

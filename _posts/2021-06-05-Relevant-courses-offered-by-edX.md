@@ -7,7 +7,7 @@ permalink: /:year/:month/:day/:title
 ---
 
 {% include subpage-header.html %}
-
+ <br />
 
 **Relevant courses offered by edX**\
 Essentials of Genomics and Biomedical Informatics\
