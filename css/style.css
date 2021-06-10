@@ -75,7 +75,7 @@ header .navbar-default .navbar-nav {
   padding-top: 10px;
 }
 header .navbar-default .navbar-nav li a {
-  color: #333333;
+  color: black !important;
   padding: 10px 26px;
   font-size: 15px;
 }
@@ -814,4 +814,11 @@ footer .footer-manu ul li a:hover {
 
 a{
   color: #8c2133 !important ;
+}
+
+
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  color: white !important;
+  background-color:#8c2133 !important;
 }
