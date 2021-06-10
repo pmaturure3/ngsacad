@@ -12,4 +12,4 @@ permalink: /:year/:title
 **Africa NGS SARS-COV-2 training course 2021**
 
 
-[Course outline:  Africa NGS SARS-COV-2 training course 2021]({{ site.url }}/uploads/NGS_SARS-COV-2course_outline.pdf){:target="_blank"}
+[Course outline:  Africa NGS SARS-COV-2 training course 2021]({{ site.url }}/uploads/NGS_SARS-COV-2course_outline.pdf)
