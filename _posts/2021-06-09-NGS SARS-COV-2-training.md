@@ -11,7 +11,5 @@ permalink: /:year/:title
  <br />
 **Africa NGS SARS-COV-2 training course 2021**
 
-Course outline:  Africa NGS SARS-COV-2 training course 2021
 
-
-[https://www.coursera.org/learn/informatics]({{ site.url }}/uploads/NGS_SARS-COV-2course_outline.pdf)
+[Course outline:  Africa NGS SARS-COV-2 training course 2021]({{ site.url }}/uploads/NGS_SARS-COV-2course_outline.pdf)
