@@ -23,8 +23,11 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Computational Biology Division, which is in the Department of Integrative Biomedical Sciences and the Institute of Infectious Disease & Molecular Medicine, Faculty of Health Sciences leads the Bioinformatics activities at the University of Cape Town. 
   The group also leads H3ABioNet, a pan African bioinformatics network, which runs an extensive training and outreach program. Together with the Bill and Melinda Gates Foundation, the Africa CDC has developed a Pathogen Genomics Initiative to enable the roll out of next generation sequencing (NGS) for pathogen surveillance and response.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site, e.g. http://example.com
+
+baseurl: "/ngsacad" # the subpath of your site, e.g. /blog
+url: "https://pmaturure3.github.io/ngsacad/" # the base hostname & protocol for your site, e.g. http://example.com
+
+
 twitter_username: jekyllrb
 github_username:  jekyll
 

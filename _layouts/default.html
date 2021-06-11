@@ -32,7 +32,7 @@
     <script src="js/jquery.counterup.js"></script>
 
     <!-- Google Map -->
-    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <!-- <script src="https://maps.googleapis.com/maps/api/js"></script> -->
     <script src="js/google-map-init.js"></script>
 
 
@@ -67,15 +67,19 @@
 
                                 <li {% if page.url=="/" %}class="active" {% endif %}><a href="/">Home</a>
                                 </li>
-                                <li {% if page.url=="/about" %}class="active" {% endif %}><a href="/about">About</a>
-                                </li>
-                                <li {% if page.url=="/courses" %}class="active" {% endif %}><a
+
+                                <li {% if page.url=="/about/" %}class="active" {% endif %}><a href="about">About</a>
+
+
+                                <li {% if page.url=="/courses/" %}class="active" {% endif %}><a
                                         href="courses">Courses</a>
                                 </li>
-                                <li {% if page.url=="/resources" %}class="active" {% endif %}><a
+
+                                <li {% if page.url=="/resources/" %}class="active" {% endif %}><a
                                         href="resources">Resources</a>
-                                </li>
-                                <li {% if page.url=="/contact" %}class="active" {% endif %}><a
+
+
+                                <li {% if page.url=="/contact/" %}class="active" {% endif %}><a
                                         href="contact">Contact</a>
                                 </li>
 
@@ -91,15 +95,19 @@
 </header><!-- header close -->
 
 <body>
-    {{ content}}
+    <div class="container">
+
+
+        {{ content }}
+    </div>
+
 
 
     <footer>
         <div class="container">
             <div class="row">
-                <p class="text-dark">Copyright &copy; <a href="http://www.cbio.uct.ac.za/">CBIO
-                        UCT</a> <b>
-                        {{ 'now' | date: "%Y" }}</b></p>
+                <p class="text-dark">Copyright &copy; <a href="http://www.cbio.uct.ac.za/">CBIO-UCT</a>
+                    {{ 'now' | date: "%Y" }}</p>
             </div>
         </div>
     </footer>
