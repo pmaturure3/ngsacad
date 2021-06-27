@@ -6,9 +6,8 @@ permalink: /:year/:title
 categories: available
 ---
 
-{% include subpage-header.html %}
+{% include subpage_header.html %}
 
- <br />
 ### Relevant courses offered by Coursera
 
 Genetic epidemiology\

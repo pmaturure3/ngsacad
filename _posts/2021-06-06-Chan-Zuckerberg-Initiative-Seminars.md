@@ -6,9 +6,8 @@ permalink: /:year/:title
 categories: available
 ---
 
-{% include subpage-header.html %}
+{% include subpage_header.html %}
 
- <br />
 ### Chan Zuckerberg Initiative Seminars
 
 [https://covidtracker.czbiohub.org/resources](https://covidtracker.czbiohub.org/resources)
