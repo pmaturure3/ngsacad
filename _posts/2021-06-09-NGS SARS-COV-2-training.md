@@ -6,7 +6,7 @@ permalink: /:year/:title
 categories: upcoming
 ---
 
-{% include subpage_header.html %}
+{% include subpage-header.html %}
 
 ### Africa NGS SARS-COV-2 training course 2021
 

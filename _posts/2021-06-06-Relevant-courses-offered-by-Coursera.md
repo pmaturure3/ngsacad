@@ -6,7 +6,7 @@ permalink: /:year/:title
 categories: available
 ---
 
-{% include subpage_header.html %}
+{% include subpage-header.html %}
 
 ### Relevant courses offered by Coursera
 
