@@ -25,10 +25,10 @@ permalink: /courses/
       {% for post in site.posts %}
       {% if post.categories contains "upcoming" %}
       <li>
-        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <small class="text-muted">posted: {{post.date
-            | date_to_string}} </small>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <small class="text-muted">posted: {{post.date
+          | date_to_string}} </small>
 
-        </p>
+
       </li>
       {% endif %}
       {% endfor %}
@@ -38,12 +38,12 @@ permalink: /courses/
       {% for post in site.posts %}
       {% if post.categories contains "available" %}
       <li>
-        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <small class="text-muted">posted: {{
-            post.date
-            |
-            date_to_string}} </small>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <small class="text-muted">posted: {{
+          post.date
+          |
+          date_to_string}} </small>
 
-        </p>
+
       </li>
       {% endif %}
       {% endfor %}
