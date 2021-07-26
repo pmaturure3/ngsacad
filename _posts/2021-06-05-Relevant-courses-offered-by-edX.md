@@ -7,7 +7,7 @@ categories: available
 
 ---
 
-{% include subpage-header.html %}
+{% include subpage_header.html %}
 
 ### Relevant courses offered by edX
 

@@ -9,7 +9,7 @@ start_date: 2021-06-28
 end_date: 2021-07-22
 ---
 
-{% include subpage-header.html %}
+{% include subpage_header.html %}
 
 ### Africa NGS SARS-COV-2 training course 2021
 <hr>

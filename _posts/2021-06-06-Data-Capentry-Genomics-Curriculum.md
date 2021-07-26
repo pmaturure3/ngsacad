@@ -6,7 +6,7 @@ permalink: /:year/:title
 categories: available
 ---
 
-{% include subpage-header.html %}
+{% include subpage_header.html %}
 
 ### Data Carpentry Genomics Curriculum
 

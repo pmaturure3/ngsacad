@@ -8,7 +8,7 @@ category: relevant
 course_dates: "27 Sept - 01 October 2021"
 ---
 
-{% include subpage-header.html %}
+{% include subpage_header.html %}
 
 ### Bioinformatics for Immunologists (Virtual) 27 September- 01 October 2021
 
