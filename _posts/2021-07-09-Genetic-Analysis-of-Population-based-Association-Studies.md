@@ -8,7 +8,7 @@ category: relevant
 course_dates: "20-24 September 2021"
 ---
 
-{% include subpage_header.html %}
+{% include subpage-header.html %}
 
 ### Genetic Analysis of Population-based Association Studies (Virtual) 20-24 September 2021
 

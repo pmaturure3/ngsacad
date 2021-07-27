@@ -8,7 +8,7 @@ category: relevant
 course_dates: "18-22 October 2021"
 ---
 
-{% include subpage_header.html %}
+{% include subpage-header.html %}
 
 ### Next Generation Sequencing Bioinformatics (Virtual) 18-22 October 2021
 
