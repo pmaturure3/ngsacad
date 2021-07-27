@@ -61,7 +61,7 @@ The content provides theoretical knowledge on the steps required for the workflo
 <b>Prerequisites</b>: 
 <br>
 
-<b>Objectives:</b> After the NGS SARS-COV-2 training participants should be able to:
+<b>Objectives:</b> After the NGS SARS-CoV-2 training participants should be able to:
 
 <ol>
 <li>---</li>
