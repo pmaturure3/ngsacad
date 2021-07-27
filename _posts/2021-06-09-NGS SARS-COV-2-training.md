@@ -30,7 +30,7 @@ The content provides theoretical knowledge on the steps required for the workflo
 
 <a class="btn btn-secondary btn-lg" href="#" role="button">Click here to apply</a>
 <br>
-<h3>Logistics: </h3>
+<h3>Logistics </h3>
 <hr>
 
 <ol class="list-unstyled">
