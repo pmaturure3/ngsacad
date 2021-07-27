@@ -14,7 +14,7 @@ end_date: 2021-07-22
 ### Africa NGS SARS-COV-2 training course 2021
 <hr>
 
-<b>Course outline:</b> [ Africa NGS SARS-COV-2 training course 2021]({{ site.url }}/docs/course_outline.pdf)
+<b>Course outline:</b> [ Africa NGS SARS-CoV-2 training course 2021]({{ site.url }}/docs/course_outline.pdf)
 
 <p align="left"><b >Course Overview:</b></p>
 
@@ -28,8 +28,11 @@ The content provides theoretical knowledge on the steps required for the workflo
 
 <p align="left">It is primarily aimed at staff who will be preparing samples, doing the sequencing, and running basic data analysis.</p>
 
-<b>Logistics: </b>
+<a class="btn btn-secondary btn-lg" href="#" role="button">Click here to apply</a>
+<br>
+<h3>Logistics: </h3>
 <hr>
+
 <ol class="list-unstyled">
 
  <li><b>Venue of course</b>: Online through Zoom </li>
@@ -46,7 +49,7 @@ The content provides theoretical knowledge on the steps required for the workflo
 
 <li><b>Course sponsors</b>:</li>
 
-<li><b>Participant applications</b></li>
+<u><li><b>Participant applications</b></li></u>
 
 <li><b>Registration for participants opens:</b></li>
 
@@ -54,9 +57,6 @@ The content provides theoretical knowledge on the steps required for the workflo
 
 <li><b>Notification date for successful Applicants:</b> </li>
 </ol>
-
-<a class="btn btn-secondary btn-sm" href="#" role="button">Apply here</a>
-<br>
 
 <b>Prerequisites</b>: 
 <br>
