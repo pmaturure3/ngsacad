@@ -332,7 +332,11 @@ Elizabeth Fahsbender</li>
   <li>MRIGlobal | Illumina</li>
  
 </ul> </td>
-            <td>-</td>
+            <td><ul>
+             <li>Nancy Chow</li>
+  <li>Shatavia Morrison</li>
+  <li>Michael Weigand</li>
+</ul></td>
     </tr>
     <tr>
       <th scope="row">Tue, 29 June 2021
@@ -345,7 +349,11 @@ Elizabeth Fahsbender</li>
   <li>MRIGlobal | Illumina</li>
  
 </ul></td>
-            <td>-</td>
+            <td><ul>
+             <li> Lolly Gardiner</li>
+  <li>Kyle Parker</li>
+    <li>Allison Black</li>
+</ul></td>
     </tr>
     <tr>
       <th scope="row">Thur, 1 Jul 2021
@@ -358,7 +366,11 @@ Elizabeth Fahsbender</li>
   <li>MRIGlobal | Illumina</li>
  
 </ul></td>
-            <td>-</td>
+            <td> <ul>
+            
+  <li>Kyle Parker</li>
+    
+</ul></td>
     </tr>
     <tr>
       <th scope="row">Mon, 5 Jul 2021
@@ -375,6 +387,7 @@ Elizabeth Fahsbender</li>
             <td><ul>
              <li> Peter Thielen</li>
   <li> Brian Merritt</li>
+   <li> Dr Shirlee Wohl</li>
 </ul></td>
     </tr>
  <tr>
@@ -392,6 +405,7 @@ Elizabeth Fahsbender</li>
             <td><ul>
              <li> Peter Thielen</li>
   <li> Brian Merritt</li>
+    <li> Dr Shirlee Wohl</li>
 </ul></td>
     </tr>
  <tr>
@@ -424,9 +438,17 @@ Elizabeth Fahsbender</li>
  <li>CZ Biohub</li>
 </ul></td>
             <td> <ul>
-             
+              <li>
+Manu Vanaerschot</li>
   <li>
 Elizabeth Fahsbender</li>
+             
+  <li>
+Vida Ahyong</li>
+  <li>
+Brittany Knight</li>
+  <li>
+ Teresa Martinez-Torres</li>
 </ul></td>
     </tr>
 <tr>
@@ -445,6 +467,11 @@ Elizabeth Fahsbender</li>
             
   <li> 
 Elizabeth Fahsbender</li>
+
+  <li>
+Vida Ahyong</li>
+  <li>
+Manu Vanaerschot</li>
 </ul></td>
     </tr>
 
@@ -464,6 +491,8 @@ Elizabeth Fahsbender</li>
             
   <li> 
 Elizabeth Fahsbender</li>
+<li> 
+Katrina Kalantar</li>
 </ul></td>
     </tr>
 
