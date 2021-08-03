@@ -63,12 +63,14 @@ The content provided theoretical knowledge on the steps required for the workflo
 
 <b>Objectives:</b> After the NGS SARS-CoV-2 training participants were able to:
 
-<ol>
-<li>---</li>
 
-<li>---</li>
-<li>---</li>
-<li>---</li>
+<ol>
+<li>Investigate clusters for transmission in a variety of settings (healthcare, workplace, bar, etc.)</li>
+<li>Identify elements of a study design </li>
+<li>Operate the Oxford Nanonpore MinION DNA sequencer</li>
+<li>Analyze unprocessed data from Oxford Nanopore sequencers</li>
+<li>Identify lineages of study sequences</li>
+<li>Interpret phylogenetic trees</li>
 </ol>
 
 
