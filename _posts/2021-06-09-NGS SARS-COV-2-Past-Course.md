@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "NGS SARS-CoV-2 training phase 1"
+title:  "NGS SARS-CoV-2 training"
 date: 2021-06-09
 permalink: /:year/:title
 category: past-course
