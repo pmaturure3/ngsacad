@@ -25,7 +25,7 @@ permalink: /past-courses/
           <div class="panel-body">
             <p>
               {% for post in site.posts %}
-              {% if post.categories contains "upcoming" %}
+              {% if post.categories contains "past-course" %}
               <li class="list-unstyled">
                 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 <p>{{post.course_overview}}</p>
