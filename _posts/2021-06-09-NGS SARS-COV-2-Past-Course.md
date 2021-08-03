@@ -1,26 +1,26 @@
 ---
 layout: default
-title:  "NGS SARS-CoV-2 training"
+title:  "SARS-CoV-2 NGS training course 2021 for Africa CDC"
 date: 2021-06-09
 permalink: /:year/:title
 category: past-course
-course_overview : The aim of this program is to provide virtual training for personnel at African institutions involved in SARS-CoV-2 sequencing for surveillance. It is primarily aimed at staff who will be preparing samples, doing the sequencing, and running basic data analysis. The content has been divided into modules, some of which are independent, while others form recommended prerequisites for the next module. The content provides theoretical knowledge on the steps required for the workflow from sample selection to analysis, to prepare participants for more practical laboratory training when this is feasible. Virtual sessions generally include videos or live online presentations followed by live Q&A sessions with trainers. Where relevant, participants complete practical exercises and submit assignments 
+course_overview : The aim of this program was to provide virtual training for personnel at African institutions involved in SARS-CoV-2 sequencing for surveillance. It was primarily aimed at staff preparing samples, doing the sequencing, and running basic data analysis. The content was divided into modules, some of which were independent, while others form recommended prerequisites for the next module. The content provided theoretical knowledge on the steps required for the workflow from sample selection to analysis, to prepare participants for more practical laboratory training when this is feasible. Virtual sessions generally included videos or live online presentations followed by live Q&A sessions with trainers. Where relevant, participants completed practical exercises and submitted assignments.
 start_date: 2021-06-28
 end_date: 2021-07-22
 ---
 
 {% include subpage-header.html %}
 
-### Africa NGS SARS-CoV-2 training course 2021
+### SARS-CoV-2 NGS training course 2021 for Africa CDC
 <hr>
 
-<b>Course outline:</b> [ Africa NGS SARS-CoV-2 training course 2021]({{ site.url }}/docs/course_outline.pdf)
+<b>Course outline:</b> [ SARS-CoV-2 NGS training course 2021 for Africa CDC]({{ site.url }}/docs/course_outline.pdf)
 
 <p align="left"><b >Course Overview:</b></p>
 
- <p align="left">The aim of this program is to provide virtual training for personnel at African institutions involved in SARS-CoV-2 sequencing for surveillance. It is primarily aimed at staff who will be preparing samples, doing the sequencing, and running basic data analysis. The content has been divided into modules, some of which are independent, while others form recommended prerequisites for the next module. 
+ <p align="left">The aim of this program was to provide virtual training for personnel at African institutions involved in SARS-CoV-2 sequencing for surveillance. It was primarily aimed at staff preparing samples, doing the sequencing, and running basic data analysis. The content was divided into modules, some of which were independent, while others form recommended prerequisites for the next module. 
 
-The content provides theoretical knowledge on the steps required for the workflow from sample selection to analysis, to prepare participants for more practical laboratory training when this is feasible. Virtual sessions generally include videos or live online presentations followed by live Q&A sessions with trainers. Where relevant, participants complete practical exercises and submit assignments and quizzes for assessment. <p>
+The content provided theoretical knowledge on the steps required for the workflow from sample selection to analysis, to prepare participants for more practical laboratory training when this is feasible. Virtual sessions generally included videos or live online presentations followed by live Q&A sessions with trainers. Where relevant, participants completed practical exercises and submitted assignments and quizzes for assessment. <p>
 
 
 
@@ -47,7 +47,7 @@ The content provides theoretical knowledge on the steps required for the workflo
 <li><b>Participation:</b> The course is available to any participant who is able to attend the Zoom sessions and the interactive hours with the course instructors for the days of the course</li>
 
 
-<li><b>Course sponsors</b>:</li>
+<li><b>Course sponsors</b>: BMGF</li>
 
 <u><li><b>Participant applications</b></li></u>
 
