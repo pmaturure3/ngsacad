@@ -109,7 +109,7 @@ Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem
       Session 1</td>
       <td> <ul>
   <li>SANBI</li>
-  <li>MRIGlobal | Illumina</li>
+  <li>--</li>
  
 </ul> </td>
             <td><ul>
