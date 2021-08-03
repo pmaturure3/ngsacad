@@ -26,7 +26,7 @@ The content provided theoretical knowledge on the steps required for the workflo
 
 <p align="left"><b class="text-left">Intended audience:</b></p>
 
-<p align="left">It is primarily aimed at staff who will be preparing samples, doing the sequencing, and running basic data analysis.</p>
+<p align="left">It was primarily aimed at staff preparing samples, doing the sequencing, and running basic data analysis.</p>
 <!-- 
 <a class="btn btn-secondary btn-lg" href="#" role="button">Click here to apply</a> -->
 <br>
@@ -44,7 +44,7 @@ The content provided theoretical knowledge on the steps required for the workflo
 <li><b>Course organisers:</b> Tony Li, Kirsty Lee Garson, Perceval Maturure and Prof Nicola Mulder</li>
 
 
-<li><b>Participation:</b> The course is available to any participant who is able to attend the Zoom sessions and the interactive hours with the course instructors for the days of the course</li>
+<li><b>Participation:</b> The course was available to any participant who was able to attend the Zoom sessions and the interactive hours with the course instructors for the days of the course</li>
 
 
 <li><b>Course sponsors</b>: BMGF</li>
@@ -61,7 +61,7 @@ The content provided theoretical knowledge on the steps required for the workflo
 <b>Prerequisites</b>: None
 <br>
 
-<b>Objectives:</b> After the NGS SARS-CoV-2 training participants should be able to:
+<b>Objectives:</b> After the NGS SARS-CoV-2 training participants were able to:
 
 <ol>
 <li>---</li>
