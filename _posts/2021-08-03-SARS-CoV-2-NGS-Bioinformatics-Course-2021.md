@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Bioinformatics training course 2021"
+title:  "SARS-CoV-2 NGS Bioinformatics Course 2021"
 date: 2021-06-09
 permalink: /:year/:title
 category: upcoming
@@ -11,10 +11,11 @@ end_date: 2021-07-22
 
 {% include subpage-header.html %}
 
-### Bioinformatics training course 2021
+### SARS-CoV-2 NGS Bioinformatics Course 2021
+The NGS Academy forms part of the Africa PGI. This initiative is funded by the Bill & Melinda Gates Foundation. Our training initiatives are carried out in partnership with the African Society for Laboratory Medicine (ASLM).
 <hr>
 
-<b>Course outline:</b> [Bioinformatics training course 2021]({{ site.url }}/docs/course_outline.pdf)
+<b>Course outline:</b> [ SARS-CoV-2 NGS Bioinformatics Course 2021]({{ site.url }}/docs/course_outline.pdf)
 
 <p align="left"><b >Course Overview:</b></p>
 
@@ -40,8 +41,8 @@ Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 <li><b>Dates for the course:</b>  Sept 2021 - Sept 2021</li>
 
-
-<li><b>Course organisers:</b> Tony Li, Kirsty Lee Garson, Perceval Maturure and Prof Nicola Mulder</li>
+<!-- 
+<li><b>Course organisers:</b> Tony Li, Kirsty Lee Garson, Perceval Maturure and Prof Nicola Mulder</li> -->
 
 
 <li><b>Participation:</b> The course is available to any participant who is able to attend the Zoom sessions and the interactive hours with the course instructors for the days of the course</li>
@@ -61,7 +62,7 @@ Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <b>Prerequisites</b>: None
 <br>
 
-<b>Objectives:</b> Bioinformatics training course training participants should be able to:
+<b>Objectives:</b>  SARS-CoV-2 NGS Bioinformatics Course participants should be able to:
 
 <ol>
 <li>---</li>
@@ -109,7 +110,7 @@ Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem
       Session 1</td>
       <td> <ul>
   <li>SANBI</li>
-  <li>--</li>
+  <li>----</li>
  
 </ul> </td>
             <td><ul>
