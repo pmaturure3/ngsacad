@@ -30,7 +30,7 @@ The content provided theoretical knowledge on the steps required for the workflo
 <div class="card bg-dark text-white ">
   <img src="./img/ngs_ngs2021.jpg" width= "100%" class="card-img rounded-corners" alt="...">
   <div class="card-img-overlay">
-    <small class="card-title">Q/A session for participants and trainers during the SARS-CoV-2 NGS training course 2021 for Africa CDC </small>
+    <small class="card-title">Q/A session with trainers and participants during the SARS-CoV-2 NGS training course 2021 for Africa CDC </small>
     <p class="card-text"></p>
    
   </div>
