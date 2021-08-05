@@ -994,3 +994,7 @@ margin: 0 !important;
 div{
   line-height: 1.9;
 }
+
+.rounded-corners{
+  border-radius: 20px;
+}

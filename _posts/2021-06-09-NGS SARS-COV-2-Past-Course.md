@@ -12,6 +12,8 @@ end_date: 2021-07-22
 {% include subpage-header.html %}
 
 ### SARS-CoV-2 NGS training course 2021 for Africa CDC
+The NGS Academy forms part of the Africa PGI. This initiative is funded by the Bill & Melinda Gates Foundation. Our training initiatives are carried out in partnership with the African Society for Laboratory Medicine (ASLM).
+
 <hr>
 
 <b>Course outline:</b> [ SARS-CoV-2 NGS training course 2021 for Africa CDC]({{ site.url }}/docs/course_outline.pdf)
@@ -24,12 +26,18 @@ The content provided theoretical knowledge on the steps required for the workflo
 
 
 
-<p align="left"><b class="text-left">Intended audience:</b></p>
-
-<p align="left">It was primarily aimed at staff preparing samples, doing the sequencing, and running basic data analysis.</p>
+<p align="left"><b class="text-left">Intended audience:</b> It was primarily aimed at staff preparing samples, doing the sequencing, and running basic data analysis</p>
+<div class="card bg-dark text-white ">
+  <img src="./img/ngs_ngs2021.jpg" width= "100%" class="card-img rounded-corners" alt="...">
+  <div class="card-img-overlay">
+    <small class="card-title">Q/A session for participants and trainers during the SARS-CoV-2 NGS training course 2021 for Africa CDC </small>
+    <p class="card-text"></p>
+   
+  </div>
+</div>
 <!-- 
 <a class="btn btn-secondary btn-lg" href="#" role="button">Click here to apply</a> -->
-<br>
+
 <h3>Logistics: </h3>
 <hr>
 
@@ -40,8 +48,7 @@ The content provided theoretical knowledge on the steps required for the workflo
 
 <li><b>Dates for the course:</b> 28 June 2021 - 22 July 2021</li>
 
-
-<li><b>Course organisers:</b> Tony Li, Kirsty Lee Garson, Perceval Maturure and Prof Nicola Mulder</li>
+<!-- <li><b>Course organisers:</b> Tony Li, Kirsty Lee Garson, Perceval Maturure and Prof Nicola Mulder</li> -->
 
 
 <li><b>Training partners:</b> <a href="https://www.cdc.gov/" target="_blank">US Centers for Disease Control and Prevention</a>, <a href="https://www.mriglobal.org/" target="_blank">MRIGlobal</a>, <a href="https://www.illumina.com/" target="_blank">Illumina</a>, <a href="https://www.nih.gov/" target="_blank">National Institutes of Health </a>, <a href="https://www.jhu.edu/" target="_blank">Johns Hopkins University </a> and the  <a href="https://www.czbiohub.org/" target="_blank">CZ Biohub</a> 
@@ -49,9 +56,8 @@ The content provided theoretical knowledge on the steps required for the workflo
 
 
 <li><b>Participation:</b> The course was available to any participant who was able to attend the Zoom sessions and the interactive hours with the course instructors for the days of the course</li>
-
-
-<li><b>Course sponsors</b>: Bill & Mellinda Gates Foundation</li>
+<!-- 
+<li><b>Course sponsors</b>: Bill & Mellinda Gates Foundation</li> -->
 
 <u><li><b>Participant applications</b></li></u>
 
