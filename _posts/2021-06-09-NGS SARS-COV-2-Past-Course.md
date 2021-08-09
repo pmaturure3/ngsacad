@@ -30,7 +30,7 @@ The content provided theoretical knowledge on the steps required for the workflo
 <div class="card bg-dark text-white ">
   <img src="./img/ngs_ngs2021.jpg" width= "100%" class="card-img rounded-corners" alt="...">
   <div class="card-img-overlay">
-    <xsmall class="card-title">Q/A session with trainers and participants during the SARS-CoV-2 NGS training course 2021 for Africa CDC </xsmall>
+    <xsmall class="card-title">Q/A session with trainers and participants during the SARS-CoV-2 NGS training course 2021 for Africa CDC</xsmall>
     <p class="card-text"></p>
    
   </div>
@@ -126,17 +126,18 @@ The content provided theoretical knowledge on the steps required for the workflo
       Module 1
       Session 1</th>
       <td>
-      Module 1
-      Session 1</td>
+      <ul>
+             <li> <a href="https://www.cdc.gov/amd/training/covid-19-gen-epi-toolkit.html" target="_blank">Introduction to genomic epidemiology and the SARS-CoV-2 genome</a></li>
+</ul></td>
       <td> <ul>
   <li>US CDC</li>
   <li>MRIGlobal | Illumina</li>
  
 </ul> </td>
             <td><ul>
-             <li>Nancy Chow</li>
-  <li>Shatavia Morrison</li>
-  <li>Michael Weigand</li>
+             <li>Dr Nancy Chow</li>
+  <li>Dr Shatavia Morrison</li>
+  <li>Dr Michael Weigand</li>
 </ul></td>
     </tr>
     <tr>
@@ -144,16 +145,18 @@ The content provided theoretical knowledge on the steps required for the workflo
       <br>
       Module 2
       Session 1</th>
-      <td> Module 2 Session 1</td>
+      <td>    <ul>
+             <li> <a href="#" target="_blank">Module 2 Session 1</a></li>
+</ul></td>
       <td><ul>
   
   <li>MRIGlobal | Illumina</li>
  
 </ul></td>
             <td><ul>
-             <li> Lolly Gardiner</li>
-  <li>Kyle Parker</li>
-    <li>Allison Black</li>
+             <li>Dr Lolly Gardiner</li>
+  <li>Dr Kyle Parker</li>
+    <li>Dr Allison Black</li>
 </ul></td>
     </tr>
     <tr>
@@ -161,7 +164,9 @@ The content provided theoretical knowledge on the steps required for the workflo
       <br>
       Module 2
       Session 2</th>
-      <td> Module 2 Session 2</td>
+      <td>    <ul>
+             <li> <a href="#" target="_blank">Module 2 session 2</a></li>
+</ul></td>
       <td><ul>
   
   <li>MRIGlobal | Illumina</li>
@@ -169,7 +174,7 @@ The content provided theoretical knowledge on the steps required for the workflo
 </ul></td>
             <td> <ul>
             
-  <li>Kyle Parker</li>
+  <li>Dr Kyle Parker</li>
     
 </ul></td>
     </tr>
@@ -178,7 +183,13 @@ The content provided theoretical knowledge on the steps required for the workflo
       <br>
       Module 3
       Session 1</th>
-      <td> Module 3 Session 1</td>
+      <td>  <ul>
+             <li> <a href="#" target="_blank">Sample Preparation for SARS-CoV-2</a></li>
+                 <li> <a href="#" target="_blank">Deep Dive: Sample Preparation for SARS-CoV-2</a></li>
+                     <li> <a href="#" target="_blank">Fluorometric DNA Quantitation</a></li>
+                         <li> <a href="#" target="_blank">Loading Samples onto an Oxford Nanopore MinION flow cell</a></li>
+                             <li> <a href="#" target="_blank">Starting MinKNOW</a></li>
+</ul></td>
       <td>
       <ul>
   
@@ -186,9 +197,9 @@ The content provided theoretical knowledge on the steps required for the workflo
  
 </ul></td>
             <td><ul>
-             <li> Peter Thielen</li>
-  <li> Brian Merritt</li>
-   <li> Dr Shirlee Wohl</li>
+             <li>Dr Peter Thielen</li>
+  <li>Brian Merritt</li>
+   <li>Dr Shirlee Wohl</li>
 </ul></td>
     </tr>
  <tr>
@@ -196,7 +207,15 @@ The content provided theoretical knowledge on the steps required for the workflo
       <br>
       Module 3
       Session 2</th>
-      <td> Module 3 Session 2</td>
+      <td> <ul>
+             <li> <a href="#" target="_blank">Introduction to Bioinformatics</a></li>
+                 <li> <a href="#" target="_blank">Bioinformatics II - Installing Docker</a></li>
+                     <li> <a href="#" target="_blank">Bioinformatics II - Installing BaseStack</a></li>
+                         <li> <a href="#" target="_blank">Bioinformatics II - Starting BaseStack</a></li>
+                             <li> <a href="#" target="_blank">Bioinformatics II - BaseStack Consensus Sequence Modules</a></li>
+                               <li> <a href="#" target="_blank">Bioinformatics II - BaseStack Consensus Sequence Reports</a></li>
+                                    <li> <a href="#" target="_blank">Bioinformatics II - BaseStack Additional Tabs</a></li>
+</ul></td>
       <td>
       <ul>
   
@@ -204,7 +223,7 @@ The content provided theoretical knowledge on the steps required for the workflo
  
 </ul></td>
             <td><ul>
-             <li> Peter Thielen</li>
+             <li>Dr Peter Thielen</li>
   <li> Brian Merritt</li>
     <li> Dr Shirlee Wohl</li>
 </ul></td>
@@ -214,7 +233,9 @@ The content provided theoretical knowledge on the steps required for the workflo
       <br>
       Module 3
       Session 3</th>
-      <td> Module 3 Session 3</td>
+      <td>   <ul>
+             <li> <a href="#" target="_blank">Practical </a></li>
+</ul></td>
       <td>
       <ul>
   
@@ -222,7 +243,7 @@ The content provided theoretical knowledge on the steps required for the workflo
  
 </ul></td>
             <td>  <ul>
-             <li> Peter Thielen</li>
+             <li>Dr Peter Thielen</li>
   <li> Brian Merritt</li>
 </ul></td>
     </tr>
@@ -231,7 +252,9 @@ The content provided theoretical knowledge on the steps required for the workflo
       <br>
       Module 4
       Session 1</th>
-      <td> Module 4 Session 1</td>
+      <td>   <ul>
+             <li> <a href="#" target="_blank">Concepts, library prep, starting a sequencing run</a></li>
+</ul></td>
       <td>
     <ul>
   <li>MRIGlobal</li>
@@ -240,16 +263,16 @@ The content provided theoretical knowledge on the steps required for the workflo
 </ul></td>
             <td> <ul>
               <li>
-Manu Vanaerschot</li>
+Dr Manu Vanaerschot</li>
   <li>
-Elizabeth Fahsbender</li>
+Dr Elizabeth Fahsbender</li>
              
   <li>
-Vida Ahyong</li>
+Dr Vida Ahyong</li>
   <li>
-Brittany Knight</li>
+Dr Brittany Knight</li>
   <li>
- Teresa Martinez-Torres</li>
+ Dr Teresa Martinez-Torres</li>
 </ul></td>
     </tr>
 <tr>
@@ -257,7 +280,9 @@ Brittany Knight</li>
       <br>
       Module 4
       Session 2</th>
-      <td> Module 4 Session 2</td>
+      <td> <ul>
+             <li> <a href="#" target="_blank">Library prep QC and sequencing run QC</a></li>
+</ul></td>
       <td>
     <ul>
   <li>MRIGlobal</li>
@@ -267,12 +292,12 @@ Brittany Knight</li>
             <td> <ul>
             
   <li> 
-Elizabeth Fahsbender</li>
+Dr Elizabeth Fahsbender</li>
 
   <li>
-Vida Ahyong</li>
+Dr Vida Ahyong</li>
   <li>
-Manu Vanaerschot</li>
+Dr Manu Vanaerschot</li>
 </ul></td>
     </tr>
 
@@ -281,7 +306,10 @@ Manu Vanaerschot</li>
       <br>
       Module 4
       Session 3</th>
-      <td> Module 4 Session 3</td>
+      <td> <ul>
+             <li> <a href="#" target="_blank">
+  Building and analyzing SARS-CoV-2 consensus genomes</a></li>
+</ul></td>
       <td>
     <ul>
   <li>MRIGlobal</li>
@@ -291,9 +319,9 @@ Manu Vanaerschot</li>
             <td> <ul>
             
   <li> 
-Elizabeth Fahsbender</li>
+Dr Elizabeth Fahsbender</li>
 <li> 
-Katrina Kalantar</li>
+Dr Katrina Kalantar</li>
 </ul></td>
     </tr>
 
@@ -302,7 +330,12 @@ Katrina Kalantar</li>
       <br>
       Module 5
       Session 1</th>
-      <td> Module 5 Session 1</td>
+      <td> <ul>
+             <li> <a href="#" target="_blank">Bioinformatics III - Working with Sequence Data and Building a Background Genetic Dataset</a></li>
+               <li> <a href="#" target="_blank">    Bioinformatics IV - Sequence Alignment and Tree Building
+</a></li>
+
+</ul></td>
       <td>
     <ul>
   <li>NIH | JHU</li>
@@ -319,7 +352,10 @@ Katrina Kalantar</li>
       <br>
       Module 5
       Session 2</th>
-      <td> Module 5 Session 2</td>
+      <td> <ul>
+             <li> <a href="#" target="_blank">Building and Interpreting Phylogenetic Trees</a></li>
+
+</ul></td>
       <td>
     <ul>
   <li>NIH | JHU</li>
@@ -334,7 +370,10 @@ Katrina Kalantar</li>
       <br>
       Module 5
       Session 3</th>
-      <td> Module 5 Session 3</td>
+      <td> <ul>
+             <li> <a href="#" target="_blank">PHA4GE Sminar</a></li>
+
+</ul></td>
       <td>
     <ul>
   <li>NIH | JHU</li>
@@ -346,18 +385,4 @@ Katrina Kalantar</li>
     </tr>
   </tbody>
 </table>
-
-
-
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
-  ---
-
-
-
-
-
-  
