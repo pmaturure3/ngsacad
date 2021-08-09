@@ -338,7 +338,8 @@ Dr Katrina Kalantar</li>
 </ul></td>
       <td>
     <ul>
-  <li>NIH | JHU</li>
+  <li>NIH</li>
+    <li>JHU</li>
 </ul></td>
             <td><ul>
              <li>Dr James R Otieno</li>
@@ -358,7 +359,8 @@ Dr Katrina Kalantar</li>
 </ul></td>
       <td>
     <ul>
-  <li>NIH | JHU</li>
+  <li>NIH</li>
+   <li>JHU</li>
 </ul></td>
             <td><ul>
              <li> Dr James R Otieno</li>
@@ -376,7 +378,8 @@ Dr Katrina Kalantar</li>
 </ul></td>
       <td>
     <ul>
-  <li>NIH | JHU</li>
+  <li>NIH</li>
+    <li>JHU</li>
 </ul></td>
             <td>   <ul>
              <li> Dr James R Otieno</li>
