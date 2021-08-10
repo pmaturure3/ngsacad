@@ -27,6 +27,9 @@ The content provided theoretical knowledge on the steps required for the workflo
 
 
 <p align="left"><b class="text-left">Intended audience:</b> It was primarily aimed at staff preparing samples, doing the sequencing, and running basic data analysis</p>
+
+<!-- code to display picture of course participants -->
+<!-- 
 <div class="card bg-dark text-white ">
   <img src="./img/ngs_ngs2021.jpg" width= "100%" class="card-img rounded-corners" alt="...">
   <div class="card-img-overlay">
@@ -34,7 +37,8 @@ The content provided theoretical knowledge on the steps required for the workflo
     <p class="card-text"></p>
    
   </div>
-</div>
+</div> -->
+
 <!-- 
 <a class="btn btn-secondary btn-lg" href="#" role="button">Click here to apply</a> -->
 
@@ -114,7 +118,7 @@ The content provided theoretical knowledge on the steps required for the workflo
   <thead>
     <tr>
       <th scope="col">Date</th>
-      <th scope="col">Links to course materials</th>
+      <th scope="col">Course materials</th>
       <th scope="col">Training partner</th>
        <th scope="col">Interactive Sessions with Instructor/s</th>
     </tr>
@@ -131,7 +135,8 @@ The content provided theoretical knowledge on the steps required for the workflo
 </ul></td>
       <td> <ul>
   <li>US CDC</li>
-  <li>MRIGlobal | Illumina</li>
+  <li>MRIGlobal</li>
+    <li>Illumina</li>
  
 </ul> </td>
             <td><ul>
@@ -150,7 +155,9 @@ The content provided theoretical knowledge on the steps required for the workflo
 </ul></td>
       <td><ul>
   
-  <li>MRIGlobal | Illumina</li>
+  <li>MRIGlobal</li>
+
+  <li>Illumina</li>
  
 </ul></td>
             <td><ul>
@@ -169,8 +176,9 @@ The content provided theoretical knowledge on the steps required for the workflo
 </ul></td>
       <td><ul>
   
-  <li>MRIGlobal | Illumina</li>
+  <li>MRIGlobal</li>
  
+  <li>Illumina</li>
 </ul></td>
             <td> <ul>
             
@@ -193,7 +201,9 @@ The content provided theoretical knowledge on the steps required for the workflo
       <td>
       <ul>
   
-  <li>NIH | JHU</li>
+  <li>NIH</li>
+
+  <li>JHU</li>
  
 </ul></td>
             <td><ul>
@@ -219,8 +229,9 @@ The content provided theoretical knowledge on the steps required for the workflo
       <td>
       <ul>
   
-  <li>NIH | JHU</li>
- 
+  <li>NIH</li>
+   
+  <li>JHU</li>
 </ul></td>
             <td><ul>
              <li>Dr Peter Thielen</li>
@@ -239,8 +250,8 @@ The content provided theoretical knowledge on the steps required for the workflo
       <td>
       <ul>
   
-  <li>NIH | JHU</li>
- 
+  <li>NIH</li>
+   <li>JHU</li>
 </ul></td>
             <td>  <ul>
              <li>Dr Peter Thielen</li>
