@@ -8,15 +8,12 @@ course_overview : The aim of this program was to provide virtual training for pe
 start_date: 2021-06-28
 end_date: 2021-07-22
 ---
-
-{% include subpage-header.html %}
-
-### SARS-CoV-2 NGS training course 2021 for Africa CDC
+<br>
 The NGS Academy forms part of the Africa PGI. This initiative is funded by the Bill & Melinda Gates Foundation. Our training initiatives are carried out in partnership with the African Society for Laboratory Medicine (ASLM).
 
 <hr>
 
-<b>Course outline:</b> [ SARS-CoV-2 NGS training course 2021 for Africa CDC]({{ site.url }}/docs/course_outline.pdf)
+<b>Course outline:</b> [ SARS-CoV-2 NGS training course 2021 for Africa CDC]({{ site.url }}docs/course_outline.pdf)
 
 <p align="left"><b >Course Overview:</b></p>
 
@@ -60,8 +57,7 @@ The content provided theoretical knowledge on the steps required for the workflo
 
 
 <li><b>Participation:</b> The course was available to any participant who was able to attend the Zoom sessions and the interactive hours with the course instructors for the days of the course</li>
-<!-- 
-<li><b>Course sponsors</b>: Bill & Mellinda Gates Foundation</li> -->
+
 
 <u><li><b>Participant applications</b></li></u>
 
@@ -101,20 +97,32 @@ The content provided theoretical knowledge on the steps required for the workflo
 <li>Module 5 Phylogenetics Analysis</li>
 </ol>
 
+<h3>Course schedule:</h3>
 
+<ul class="nav nav-tabs" role="tablist">
+	<li class="nav-item">
+		<a class="nav-link active" data-toggle="tab" href="#tabs-1" role="tab">Module 1</a>
+	</li>
+	<li class="nav-item">
+		<a class="nav-link" data-toggle="tab" href="#tabs-2" role="tab">Module 2</a>
+	</li>
+	<li class="nav-item">
+		<a class="nav-link" data-toggle="tab" href="#tabs-3" role="tab">Module 3</a>
+	</li>
 
-  <div class="col-sm-12">
-    <div class="panel-group " id="accordion">
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h4 class="panel-title">
-            <a data-toggle="collapse" data-parent="#accordion" href="#collapse12">
-              Course schedule</a>
-          </h4>
-        </div>
-        <div id="collapse12" class="panel-collapse collapse in">
-          <div class="panel-body">
-            <table class="table table-bordered">
+  	<li class="nav-item">
+		<a class="nav-link" data-toggle="tab" href="#tabs-4" role="tab">Module 4</a>
+	</li>
+
+   	<li class="nav-item">
+		<a class="nav-link" data-toggle="tab" href="#tabs-5" role="tab">Module 5</a>
+	</li>
+
+  
+</ul><!-- Tab panes -->
+<div class="tab-content">
+	<div class="tab-pane active" id="tabs-1" role="tabpanel">
+		<p>   <table class="table table-bordered">
   <thead>
     <tr>
       <th scope="col">Date</th>
@@ -125,13 +133,13 @@ The content provided theoretical knowledge on the steps required for the workflo
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Mon, 28 June 2021
+      <th scope="row">Mon, 28 Jun 2021
       <br>
       Module 1
-      Session 1</th>
+      Session 1 &nbsp;&nbsp; &nbsp;&nbsp; </th>
       <td>
       <ul>
-             <li> <a href="https://www.cdc.gov/amd/training/covid-19-gen-epi-toolkit.html" target="_blank">Introduction to genomic epidemiology and the SARS-CoV-2 genome</a></li>
+             <li> <a href="https://www.cdc.gov/amd/training/covid-19-gen-epi-toolkit.html" target="_blank">Introduction to genomic epidemiology and the SARS-CoV-2 genome.</a></li>
 </ul></td>
       <td> <ul>
   <li>US CDC</li>
@@ -145,11 +153,26 @@ The content provided theoretical knowledge on the steps required for the workflo
   <li>Dr Michael Weigand</li>
 </ul></td>
     </tr>
+  </tbody>
+</table></p>
+	</div>
+	<div class="tab-pane" id="tabs-2" role="tabpanel">
+		<p>
+ <table class="table table-bordered">
+  <thead>
     <tr>
-      <th scope="row">Tue, 29 June 2021
+      <th scope="col">Date</th>
+      <th scope="col">Course materials</th>
+      <th scope="col">Training partner</th>
+       <th scope="col">Interactive Sessions with Instructor/s</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Tue, 29 Jun 2021
       <br>
       Module 2
-      Session 1</th>
+      Session 1 &nbsp;&nbsp; &nbsp;&nbsp; </th>
       <td>    <ul>
              <li> <a href="#" target="_blank">Module 2 Session 1</a></li>
 </ul></td>
@@ -186,17 +209,33 @@ The content provided theoretical knowledge on the steps required for the workflo
     
 </ul></td>
     </tr>
+    
+  </tbody>
+</table>    
+</p>
+	</div>
+	<div class="tab-pane" id="tabs-3" role="tabpanel">
+		<p>  <table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Course materials</th>
+      <th scope="col">Training partner</th>
+       <th scope="col">Interactive Sessions with Instructor/s</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <th scope="row">Mon, 5 Jul 2021
       <br>
       Module 3
-      Session 1</th>
+      Session 1 &nbsp;&nbsp; &nbsp;&nbsp; </th>
       <td>  <ul>
-             <li> <a href="#" target="_blank">Sample Preparation for SARS-CoV-2</a></li>
-                 <li> <a href="#" target="_blank">Deep Dive: Sample Preparation for SARS-CoV-2</a></li>
-                     <li> <a href="#" target="_blank">Fluorometric DNA Quantitation</a></li>
-                         <li> <a href="#" target="_blank">Loading Samples onto an Oxford Nanopore MinION flow cell</a></li>
-                             <li> <a href="#" target="_blank">Starting MinKNOW</a></li>
+             <li> <a href="https://www.youtube.com/watch?v=XLiG7i_3yQk#0" target="_blank">Sample Preparation for SARS-CoV-2.</a></li>
+                 <li> <a href="https://www.youtube.com/watch?v=6q_vJzvmeG8#0" target="_blank">Deep Dive: Sample Preparation for SARS-CoV-2.</a></li>
+                     <li> <a href="https://www.youtube.com/watch?v=h1aeSmJRn5c&t=4s#0" target="_blank">Fluorometric DNA Quantitation.</a></li>
+                         <li> <a href="https://www.youtube.com/watch?v=Uaa4DqZrDn8#0" target="_blank">Loading Samples onto an Oxford Nanopore MinION flow cell.</a></li>
+                             <li> <a href="https://www.youtube.com/watch?v=cRee50VzXJc&t=4s#0" target="_blank">Starting MinKNOW.</a></li>
 </ul></td>
       <td>
       <ul>
@@ -218,13 +257,13 @@ The content provided theoretical knowledge on the steps required for the workflo
       Module 3
       Session 2</th>
       <td> <ul>
-             <li> <a href="#" target="_blank">Introduction to Bioinformatics</a></li>
-                 <li> <a href="#" target="_blank">Bioinformatics II - Installing Docker</a></li>
-                     <li> <a href="#" target="_blank">Bioinformatics II - Installing BaseStack</a></li>
-                         <li> <a href="#" target="_blank">Bioinformatics II - Starting BaseStack</a></li>
-                             <li> <a href="#" target="_blank">Bioinformatics II - BaseStack Consensus Sequence Modules</a></li>
-                               <li> <a href="#" target="_blank">Bioinformatics II - BaseStack Consensus Sequence Reports</a></li>
-                                    <li> <a href="#" target="_blank">Bioinformatics II - BaseStack Additional Tabs</a></li>
+             <li> <a href="https://www.youtube.com/watch?v=wouqQKJCMDo#0" target="_blank">Introduction to Bioinformatics</a></li>
+                 <li> <a href="https://www.youtube.com/watch?v=Iih_rIr1lJU#0" target="_blank">Bioinformatics II - Installing Docker</a></li>
+                     <li> <a href="https://www.youtube.com/watch?v=NE3RmYNPlKI#0" target="_blank">Bioinformatics II - Installing BaseStack.</a></li>
+                         <li> <a href="https://www.youtube.com/watch?v=Mj-qsdYj0rk#0" target="_blank">Bioinformatics II - Starting BaseStack.</a></li>
+                             <li> <a href="https://www.youtube.com/watch?v=ah_RVGbo-kI&t=1s#0" target="_blank">Bioinformatics II - BaseStack Consensus Sequence Modules.</a></li>
+                               <li> <a href="https://www.youtube.com/watch?v=HpKUxOCCq4U#0" target="_blank">Bioinformatics II - BaseStack Consensus Sequence Reports.</a></li>
+                                    <li> <a href="https://www.youtube.com/watch?v=btmtAxdlz7M#0" target="_blank">Bioinformatics II - BaseStack Additional Tabs.</a></li>
 </ul></td>
       <td>
       <ul>
@@ -245,7 +284,9 @@ The content provided theoretical knowledge on the steps required for the workflo
       Module 3
       Session 3</th>
       <td>   <ul>
-             <li> <a href="#" target="_blank">Practical </a></li>
+       <li> <a href="https://github.com/jhuapl-bio/Basestack/#1-install-docker" target="_blank">Troubleshooting sesssion with Trainers.</a></li>
+             <li> <a href="https://jhuapl-bio.github.io/Basestack/" target="_blank">Practical sesssion.</a></li>
+             
 </ul></td>
       <td>
       <ul>
@@ -258,13 +299,32 @@ The content provided theoretical knowledge on the steps required for the workflo
   <li> Brian Merritt</li>
 </ul></td>
     </tr>
+   
+
+
+  </tbody>
+</table></p>
+	</div>
+
+  	<div class="tab-pane" id="tabs-4" role="tabpanel">
+		<p><table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Course materials</th>
+      <th scope="col">Training partner</th>
+       <th scope="col">Interactive Sessions with Instructor/s</th>
+    </tr>
+  </thead>
+  <tbody>
      <tr>
       <th scope="row">Mon, 12 Jul 2021
       <br>
       Module 4
-      Session 1</th>
+      Session 1 &nbsp;&nbsp; &nbsp;&nbsp; </th>
       <td>   <ul>
-             <li> <a href="#" target="_blank">Concepts, library prep, starting a sequencing run</a></li>
+      <a href="{{ site.url }}uploads/session_1.pdf" target="_blank">Concepts, library prep, starting a sequencing run.</a>
+
 </ul></td>
       <td>
     <ul>
@@ -292,7 +352,10 @@ Dr Brittany Knight</li>
       Module 4
       Session 2</th>
       <td> <ul>
-             <li> <a href="#" target="_blank">Library prep QC and sequencing run QC</a></li>
+             <li>                      
+     <a href="{{ site.url }}uploads/session_2.pdf" target="_blank">Library prep QC and sequencing run QC.</a>
+</li>
+             
 </ul></td>
       <td>
     <ul>
@@ -318,8 +381,9 @@ Dr Manu Vanaerschot</li>
       Module 4
       Session 3</th>
       <td> <ul>
-             <li> <a href="#" target="_blank">
-  Building and analyzing SARS-CoV-2 consensus genomes</a></li>
+               <li>                      
+     <a href="{{ site.url }}uploads/session_3.pdf" target="_blank">Building and analyzing SARS-CoV-2 consensus genomes.</a>
+</li>
 </ul></td>
       <td>
     <ul>
@@ -335,15 +399,30 @@ Dr Elizabeth Fahsbender</li>
 Dr Katrina Kalantar</li>
 </ul></td>
     </tr>
+  </tbody>
+</table></p>
+	</div>
+    	<div class="tab-pane" id="tabs-5" role="tabpanel">
+		<p><table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Course materials</th>
+      <th scope="col">Training partner</th>
+       <th scope="col">Interactive Sessions with Instructor/s</th>
+    </tr>
+  </thead>
+  <tbody>
+  
 
 <tr>
       <th scope="row">Mon, 19 Jul 2021
       <br>
       Module 5
-      Session 1</th>
+      Session 1 &nbsp;&nbsp; &nbsp;&nbsp; </th>
       <td> <ul>
-             <li> <a href="#" target="_blank">Bioinformatics III - Working with Sequence Data and Building a Background Genetic Dataset</a></li>
-               <li> <a href="#" target="_blank">    Bioinformatics IV - Sequence Alignment and Tree Building
+             <li> <a href="https://www.youtube.com/watch?v=PHE6ea0xtPo#0" target="_blank">Bioinformatics III - Working with Sequence Data and Building a Background Genetic Dataset.</a></li>
+               <li> <a href="https://www.youtube.com/watch?v=OPIw4mEb1K0#0" target="_blank">    Bioinformatics IV - Sequence Alignment and Tree Building.
 </a></li>
 
 </ul></td>
@@ -365,7 +444,7 @@ Dr Katrina Kalantar</li>
       Module 5
       Session 2</th>
       <td> <ul>
-             <li> <a href="#" target="_blank">Building and Interpreting Phylogenetic Trees</a></li>
+             <li> <a href="https://www.youtube.com/watch?v=D-c0zmHi9Wk#0" target="_blank">Building and Interpreting Phylogenetic Trees.</a></li>
 
 </ul></td>
       <td>
@@ -384,7 +463,9 @@ Dr Katrina Kalantar</li>
       Module 5
       Session 3</th>
       <td> <ul>
-             <li> <a href="#" target="_blank">PHA4GE Sminar</a></li>
+                           <li>                      
+     <a href="{{ site.url }}uploads/phage_seminar_22July2021.pdf" target="_blank">PHA4GE Seminar.</a>
+</li>
 
 </ul></td>
       <td>
@@ -398,5 +479,6 @@ Dr Katrina Kalantar</li>
 </ul></td>
     </tr>
   </tbody>
-</table>
-  </div>
+</table></p>
+	</div>
+</div>

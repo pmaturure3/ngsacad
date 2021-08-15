@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "NGS SARS-CoV-2 training application"
+title:  "SARS-CoV-2 NGS training course 2021 for Africa CDC"
 date: 2021-06-09
 permalink: /:year/:title
 category: upcoming_old
@@ -9,12 +9,10 @@ start_date: 2021-06-28
 end_date: 2021-07-22
 ---
 
-{% include subpage-header.html %}
-
-### Africa NGS SARS-CoV-2 training course 2021
+### SARS-CoV-2 NGS training course 2021 for Africa CDC
 <hr>
 
-<b>Course outline:</b> [ Africa NGS SARS-CoV-2 training course 2021]({{ site.url }}/docs/course_outline.pdf)
+<b>Course outline:</b> [ SARS-CoV-2 NGS training course 2021 for Africa CDC]({{ site.url }}/docs/course_outline.pdf)
 
 <p align="left"><b >Course Overview:</b></p>
 
@@ -61,16 +59,16 @@ The content provides theoretical knowledge on the steps required for the workflo
 <b>Prerequisites</b>: 
 <br>
 
-<b>Objectives:</b> After the NGS SARS-CoV-2 training participants were able to:
+<b>Objectives:</b> After the NGS SARS-CoV-2 training participants should be able to:
 
 <ol>
-<li>Investigate clusters for transmission in a variety of settings (healthcare, workplace, bar, etc.)</li>
-<li>Identify elements of a study design </li>
-<li>Operate the Oxford Nanonpore MinION DNA sequencer</li>
-<li>Analyze unprocessed data from Oxford Nanopore sequencers</li>
-<li>Identify lineages of study sequences</li>
-<li>Interpret phylogenetic trees</li>
+<li>---</li>
+
+<li>---</li>
+<li>---</li>
+<li>---</li>
 </ol>
+
 
 <b>Course limitations</b>: 
 

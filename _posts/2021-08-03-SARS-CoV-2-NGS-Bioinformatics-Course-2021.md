@@ -2,15 +2,15 @@
 layout: default
 title:  "SARS-CoV-2 NGS Bioinformatics Course 2021"
 date: 2021-06-09
+main_menu: courses
 permalink: /:year/:title
 category: upcoming
 course_overview : Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled. 
 start_date: 2021-06-28
 end_date: 2021-07-22
+group: group1
 ---
-
-{% include subpage-header.html %}
-
+  
 ### SARS-CoV-2 NGS Bioinformatics Course 2021
 The NGS Academy forms part of the Africa PGI. This initiative is funded by the Bill & Melinda Gates Foundation. Our training initiatives are carried out in partnership with the African Society for Laboratory Medicine (ASLM).
 <hr>
@@ -138,3 +138,4 @@ Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem
     </tr>
   </tbody>
 </table>
+

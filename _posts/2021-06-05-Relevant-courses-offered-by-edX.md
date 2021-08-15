@@ -3,12 +3,9 @@ layout: default
 title:  "Relevant courses offered by edX"
 date: 2021-06-05
 permalink: /:year/:title
-categories: available 
+category: available 
 
 ---
-
-{% include subpage-header.html %}
-
 ### Relevant courses offered by edX
 
 Essentials of Genomics and Biomedical Informatics\
