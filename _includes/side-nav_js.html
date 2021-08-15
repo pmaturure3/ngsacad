@@ -71,12 +71,12 @@
         <ul class="side-main-nav-ul">
 
 
-            <li {% if page.url=="/" %}class="sub_color" {% endif %}><a href="/index"> Home </a></li>
+            <li {% if page.url=="/" %}class="sub_color" {% endif %}><a href="{{ site.url }}index/"> Home </a></li>
 
             <li {% if page.url=="/about/" %}class="sub_color" {% endif %}><a href="{{ site.url }}about/"> About</a></li>
 
             <li id="01courselist" {% if page.url=="/courses/" %}class="sub_color" {% endif %} id="left_menu_item"><a
-                    href="{{ site.url }}/courses/">
+                    href="{{ site.url }}courses/">
                     Courses<span class="sub-arrow"></span></a>
                 <ul class="courselist indent_sub_list">
                     <li {% if page.url=="/courses/upcoming-courses/" %} class="sub_color" {% endif %}><a
@@ -98,7 +98,7 @@
 
             </li>
             <li id="01resource" {% if page.url=="/resources/" %}class="sub_color" {% endif %}> <a
-                    href="{{ site.url }}/resources/">Resources
+                    href="{{ site.url }}resources/">Resources
                     <span class="sub-arrow"></span></a>
                 <ul class="resourcelist indent_sub_list">
                     <li {% if page.url=="/resources/publications/" %} class="sub_color" {% endif %}><a
