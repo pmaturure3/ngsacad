@@ -100,10 +100,11 @@
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-right">
 
-                                <li {% if page.url=="/" %}class="active" {% endif %}><a href="index">Home</a>
+                                <li {% if page.url=="/" %}class="active" {% endif %}><a href="{{ site.url }}">Home</a>
                                 </li>
 
-                                <li {% if page.url=="/about/" %}class="active" {% endif %}><a href="about">About</a>
+                                <li {% if page.url=="/about/" %}class="active" {% endif %}><a
+                                        href="{{ site.url }}about/">About</a>
 
 
                                     <!-- <li {% if page.url=="/courses/" %}class="active" {% endif %}><a
@@ -112,7 +113,7 @@
 
 
                                 <li class="nav-item dropdown" {% if page.url=="/courses/" %}class="active" {% endif %}>
-                                    <a class="nav-link  dropdown-toggle" href="courses"
+                                    <a class="nav-link  dropdown-toggle" href="{{ site.url }}courses/"
                                         data-bs-toggle="dropdown-1">Courses</a>
                                     <ul class="dropdown-menu">
                                         <li><a class="dropdown-item" href="{{ site.url }}courses/upcoming-courses/">
@@ -138,7 +139,7 @@
 
 
                                 <li class="nav-item dropdown" {% if page.url=="/resources/" %}class="active" {% endif
-                                    %}><a class="nav-link  dropdown-toggle" href="resources"
+                                    %}><a class="nav-link  dropdown-toggle" href="{{ site.url }}resources"
                                         data-bs-toggle="dropdown-1">Resources</a>
                                     <ul class="dropdown-menu">
                                         <li><a class="dropdown-item" href="{{ site.url }}resources/publications/">
@@ -153,7 +154,7 @@
 
 
                                 <li {% if page.url=="/contact/" %}class="active" {% endif %}><a
-                                        href="contact">Contact</a>
+                                        href="{{ site.url }}contact">Contact</a>
                                 </li>
 
 

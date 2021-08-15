@@ -174,7 +174,7 @@ The content provided theoretical knowledge on the steps required for the workflo
       Module 2
       Session 1 &nbsp;&nbsp; &nbsp;&nbsp; </th>
       <td>    <ul>
-             <li> <a href="#" target="_blank">Module 2 Session 1</a></li>
+                <li> <p>TBA</p></li>
 </ul></td>
       <td><ul>
   
@@ -195,7 +195,7 @@ The content provided theoretical knowledge on the steps required for the workflo
       Module 2
       Session 2</th>
       <td>    <ul>
-             <li> <a href="#" target="_blank">Module 2 session 2</a></li>
+             <li> <p>TBA</p></li>
 </ul></td>
       <td><ul>
   
