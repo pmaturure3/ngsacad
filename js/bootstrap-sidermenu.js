@@ -10,7 +10,7 @@ $(function () {
         console.log(document.URL);
     };
 
-    const fruits = ["/courses/upcoming-courses/", "/courses/related-courses/", "/courses/past-courses/"];
+    const fruits = ["/courses/upcoming-courses/", "/courses/available-courses/", "/courses/past-courses/"];
 
     if (fruits.includes(window.location.pathname)) {
         $(".courselist").css("display", "block");
