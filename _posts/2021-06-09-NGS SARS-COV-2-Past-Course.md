@@ -129,7 +129,6 @@ Course objectives to be updated
 			</div>
    -->
 
-
 <b>Course limitations</b>: None
 
 <br>
