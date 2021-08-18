@@ -42,10 +42,9 @@ The content provided theoretical knowledge on the steps required for the workflo
 <h3>Logistics: </h3>
 <hr>
 
-<ol class="list-unstyled">
+<ol class="">
 
  <li><b>Venue of course</b>: Online through Zoom </li>
-
 
 <li><b>Dates for the course:</b> 28 June 2021 - 22 July 2021</li>
 
@@ -67,11 +66,9 @@ The content provided theoretical knowledge on the steps required for the workflo
 
 <li><b>Notification date for successful Applicants: </b> 25 Jun 2021</li>
 </ol>
-
 <b>Prerequisites</b>: None
 <br>
-
-<b>Objectives:</b> After the NGS SARS-CoV-2 training participants were able to:
+<b>Objectives per module:</b> After the NGS SARS-CoV-2 training participants were able to:
 
 
 <ol>
@@ -83,12 +80,60 @@ The content provided theoretical knowledge on the steps required for the workflo
 <li>Interpret phylogenetic trees</li>
 </ol>
 
+<!-- 
+Course objectives to be updated
+<ul class="nav nav-tabs">
+			<li class="active">
+        <a  href="#001" data-toggle="tab">Module 1</a>
+			</li>
+			<li><a href="#002" data-toggle="tab">Module 2 </a>
+			</li>
+			<li><a href="#003" data-toggle="tab">Module 3</a>
+			</li>
+	    <li><a href="#004" data-toggle="tab">Module 4</a>
+			</li>
+      	<li><a href="#005" data-toggle="tab">Module 5</a>
+			</li>
+		</ul>
+			<div class="tab-content ">
+			  <div class="tab-pane active" id="001">
+        <div class="">
+         <ol>
+          <li>Monitor trends at the national level:
+          <ul class="indent_sub_list">
+            <li>Monitor emergence of important new strains </li>
+              <li>Monitor trends after interventions such as vaccination </li>
+          </ul>
+          </li>
+          <li>Better understand epidemiology at the local level:  <ul class="indent_sub_list">
+            <li>Investigate clusters for transmission in a variety of settings (healthcare, workplace, bar, etc.) </li>
+              <li>Provide evidence for or against suspected transmission</li>
+                <li>Reveal important, unsuspected clusters</li>
+          </ul></li>
+          </ol>
+          <hr>
+        </div>
+				</div>
+				<div class="tab-pane" id="002">
+          <h3>002</h3>
+				</div>
+        <div class="tab-pane" id="003">
+          <h3>003</h3>
+          <div class="tab-pane" id="004">
+          <h3>004</h3>
+				</div>
+         <div class="tab-pane" id="005">
+          <h3>005</h3>
+				</div>
+				</div>
+			</div>
+   -->
+
 
 <b>Course limitations</b>: None
 
 <br>
 <b>Course curriculum:</b>
-<hr>
 <ol>
 <li>Module 1 Introduction to Genomic Epidemiology and NGS</li>
 <li>Module 2 Wet lab and Sample preparation</li>
