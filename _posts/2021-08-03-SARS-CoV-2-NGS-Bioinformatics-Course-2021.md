@@ -1,11 +1,11 @@
 ---
 layout: default
 title:  "SARS-CoV-2 NGS Bioinformatics Course 2021"
-date: 2021-06-09
+date: 2021-08-03
 main_menu: courses
 permalink: /:year/:title
 category: upcoming
-course_overview : Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled. 
+course_overview : The bioinformatics course is a follow-up to our SARS-CoV-2 NGS training. The focus for this new set of modules is more advanced bioinformatics analysis, data curation and dissemination of findings. 
 start_date: 2021-06-28
 end_date: 2021-07-22
 group: group1
@@ -19,7 +19,7 @@ The NGS Academy forms part of the Africa PGI. This initiative is funded by the B
 
 <p align="left"><b >Course Overview:</b></p>
 
- <p align="left">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled.  
+ <p align="left">The bioinformatics course is a follow-up to our SARS-CoV-2 NGS training. The focus for this new set of modules is more advanced bioinformatics analysis, data curation and dissemination of findings.  
 
 Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled. Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled.  <p>
 
@@ -39,7 +39,7 @@ Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem
  <li><b>Venue of course</b>: Online through Zoom </li>
 
 
-<li><b>Dates for the course:</b>  Sept 2021 - Sept 2021</li>
+<li><b>Dates for the course:</b> 11 October 2021 - 12 November 2021</li>
 
 <!-- 
 <li><b>Course organisers:</b> Tony Li, Kirsty Lee Garson, Perceval Maturure and Prof Nicola Mulder</li> -->
@@ -54,13 +54,17 @@ Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 <li><b>Registration for participants opens:</b></li>
 
-<li><b>Regsitration for participants closes:</b> </li>
+<li><b>Registration for participants closes:</b> 30 September 2021</li>
 
 <li><b>Notification date for successful Applicants:</b> </li>
 </ol>
 
 <b>Prerequisites</b>: None
-<br>
+<ol>
+<li>SARS-CoV NGS course</li>
+
+<li>Galaxy course</li>
+</ol>
 
 <b>Objectives:</b>  SARS-CoV-2 NGS Bioinformatics Course participants should be able to:
 
@@ -79,11 +83,11 @@ Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <b>Course curriculum:</b>
 <hr>
 <ol class="list-unstyled">
-<li>6. Module 6 Analysis platforms</li>
+<li>6. Module 6 Workflows for SARS-CoV-2 Analysis</li>
 <li>7. Module 7 Data curation and sharing</li>
-<li>8. Module 8 Presenting data to inform policy</li>
-<li>9. Module 9 Advanced bioinformatics analysis</li>
-<li>10. Module 10 Practical bioinformatics application</li>
+<li>8. Module 8 Advanced Bioinformatics Analysis</li>
+<li>9. Module 9 Presenting Data to Inform Policy</li>
+<li>Recommended material: Model Bioinformatics Analysis</li>
 </ol>
 
 <b>Course schedule</b>
