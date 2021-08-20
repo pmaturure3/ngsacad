@@ -83,10 +83,10 @@ Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <b>Course curriculum:</b>
 <hr>
 <ol class="list-unstyled">
-<li>6. Module 6 Workflows for SARS-CoV-2 Analysis</li>
-<li>7. Module 7 Data curation and sharing</li>
-<li>8. Module 8 Advanced Bioinformatics Analysis</li>
-<li>9. Module 9 Presenting Data to Inform Policy</li>
+<li>Module 1 Workflows for SARS-CoV-2 Analysis</li>
+<li>Module 2 Data curation and sharing</li>
+<li>Module 3 Advanced Bioinformatics Analysis</li>
+<li>Module 4 Presenting Data to Inform Policy</li>
 <li>Recommended material: Model Bioinformatics Analysis</li>
 </ol>
 
