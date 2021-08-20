@@ -4,7 +4,7 @@ title:  "Next Generation Sequencing Bioinformatics "
 date: 2021-07-10
 permalink: /:year/:title
 category: available
-
+summary: 
 course_dates: "18-22 October 2021"
 ---
 
