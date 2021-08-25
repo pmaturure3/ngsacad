@@ -19,15 +19,15 @@ The NGS Academy forms part of the Africa PGI. This initiative is funded by the B
 
 <p align="left"><b >Course Overview:</b></p>
 
- <p align="left">The bioinformatics course is a follow-up to our SARS-CoV-2 NGS training. The focus for this new set of modules is more advanced bioinformatics analysis, data curation and dissemination of findings.  
-
-Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled. Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled.  <p>
+ <p align="left">The bioinformatics course is a follow-up to our SARS-CoV-2 NGS training. The focus for this new set of modules is more advanced bioinformatics analysis, data curation and dissemination of findings from SARS-CoV-2 NGS data.  
+ <p>
 
 
 
 <p align="left"><b class="text-left">Intended audience:</b></p>
 
-<p align="left">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled. </p>
+<p align="left">The course is designed for individuals looking to increase their knowledge on the use of different
+bioinformatics tools for SARS-CoV-2 NGS data. </p>
 
 <a class="btn btn-secondary btn-lg" href="#" role="button">Click here to apply</a>
 <br>
@@ -48,7 +48,7 @@ Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <li><b>Participation:</b> The course is available to any participant who is able to attend the Zoom sessions and the interactive hours with the course instructors for the days of the course</li>
 
 
-<li><b>Course sponsors</b>: TBA</li>
+<!-- <li><b>Course sponsors</b>: TBA</li> -->
 
 <u><li><b>Participant applications</b></li></u>
 
@@ -59,25 +59,24 @@ Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <li><b>Notification date for successful Applicants:</b> </li>
 </ol>
 
-<b>Prerequisites</b>: None
+<b>Prerequisites</b>
 <ol>
-<li>SARS-CoV NGS course</li>
+<li>1. Unix/Linux knowledge</li>
 
-<li>Galaxy course</li>
+<li>2. Familiar with programming in R</li>
 </ol>
 
-<b>Objectives:</b>  SARS-CoV-2 NGS Bioinformatics Course participants should be able to:
+<b>Objectives and expected outcomes:</b> 
 
 <ol>
-<li>---</li>
+<li>The course is designed for individuals looking to increase their knowledge on the use of different
+bioinformatics tools for SARS-CoV-2 NGS data. The training will focus on key topics such as data curation
+and sharing, advanced bioinformatics analysis, and presenting data to inform policy makers.</li>
 
-<li>---</li>
-<li>---</li>
-<li>---</li>
 </ol>
 
 
-<b>Course limitations</b>: None
+<!-- <b>Course limitations</b>: None -->
 
 <br>
 <b>Course curriculum:</b>
@@ -87,7 +86,7 @@ Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <li>Module 2 Data curation and sharing</li>
 <li>Module 3 Advanced Bioinformatics Analysis</li>
 <li>Module 4 Presenting Data to Inform Policy</li>
-<li>Recommended material: Model Bioinformatics Analysis</li>
+<li>Recommended materials: Model Bioinformatics Analysis</li>
 </ol>
 
 <b>Course schedule</b>

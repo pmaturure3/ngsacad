@@ -279,7 +279,7 @@ Course objectives to be updated
                  <li> <a href="https://www.youtube.com/watch?v=6q_vJzvmeG8#0" target="_blank">Deep Dive: Sample Preparation for SARS-CoV-2.</a></li>
                      <li> <a href="https://www.youtube.com/watch?v=h1aeSmJRn5c&t=4s#0" target="_blank">Fluorometric DNA Quantitation.</a></li>
                          <li> <a href="https://www.youtube.com/watch?v=Uaa4DqZrDn8#0" target="_blank">Loading Samples onto an Oxford Nanopore MinION flow cell.</a></li>
-                             <li> <a href="https://www.youtube.com/watch?v=cRee50VzXJc&t=4s#0" target="_blank">Starting MinKNOW.</a></li>
+                          <li> <a href="https://www.youtube.com/watch?v=cRee50VzXJc&t=4s#0" target="_blank">Starting MinKNOW.</a></li>                         
 </ul></td>
       <td>
       <ul>
@@ -507,11 +507,16 @@ Dr Katrina Kalantar</li>
       Module 5
       Session 3</th>
       <td> <ul>
+                              <li>                      
+     <a href="https://phylodynamics.github.io/" target="_blank">Phylogenetics software.</a>
+</li>
                            <li>                      
      <a href="{{ site.url }}uploads/phage_seminar_22July2021.pdf" target="_blank">PHA4GE Seminar.</a>
-</li>                           <li>                      
+</li>
+                          <li>                      
      <a href="{{ site.url }}uploads/additional_pha4ge_resource.pptx" target="_blank">PHA4GE additional resource.</a>
 </li>
+
 
 </ul></td>
       <td>
