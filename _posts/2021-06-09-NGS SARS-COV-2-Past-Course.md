@@ -508,7 +508,7 @@ Dr Katrina Kalantar</li>
       Session 3</th>
       <td> <ul>
                               <li>                      
-     <a href="https://phylodynamics.github.io/" target="_blank">Phylogenetics software.</a>
+     <a href="https://phylodynamics.github.io/" target="_blank">Phylogenetics software and troubleshooting session with Trainers</a>
 </li>
                            <li>                      
      <a href="{{ site.url }}uploads/phage_seminar_22July2021.pdf" target="_blank">PHA4GE Seminar.</a>
