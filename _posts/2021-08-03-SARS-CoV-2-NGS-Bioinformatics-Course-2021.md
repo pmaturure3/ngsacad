@@ -89,56 +89,8 @@ and sharing, advanced bioinformatics analysis, and presenting data to inform pol
 <li>Recommended materials: Model Bioinformatics Analysis</li>
 </ol>
 
-<b>Course schedule</b>
+<!-- <b>Course schedule</b> -->
 
 
 
-  <table class="table table-bordered">
-  <thead>
-    <tr>
-      <th scope="col">Date</th>
-      <th scope="col">Links to course materials</th>
-      <th scope="col">Training partner</th>
-       <th scope="col">Interactive Sessions with Instructor/s</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Mon, Sept 2021
-      <br>
-      Module 1
-      Session 1</th>
-      <td>
-      Module 1
-      Session 1</td>
-      <td> <ul>
-  <li>SANBI</li>
-  <li>----</li>
- 
-</ul> </td>
-            <td><ul>
-             <li>-</li>
-  <li>-</li>
-  <li>-</li>
-</ul></td>
-    </tr>
-    <tr>
-      <th scope="row">Tue,Sept2021
-      <br>
-      Module 2
-      Session 1</th>
-      <td> Module 2 Session 1</td>
-      <td><ul>
-  
-  <li>---</li>
- 
-</ul></td>
-            <td><ul>
-             <li> -</li>
-  <li>-</li>
-    <li>-</li>
-</ul></td>
-    </tr>
-  </tbody>
-</table>
 
