@@ -26,10 +26,9 @@ The NGS Academy forms part of the Africa PGI. This initiative is funded by the B
 
 <p align="left"><b class="text-left">Intended audience:</b></p>
 
-<p align="left">The course is designed for individuals looking to increase their knowledge on the use of different
-bioinformatics tools for SARS-CoV-2 NGS data. </p>
+<p>The course is designed for individuals looking to increase their knowledge on the use of different bioinformatics tools for SARS-CoV-2 NGS data. </p>
 
-<a class="btn btn-secondary btn-lg" href="#" role="button">Click here to apply</a>
+<a class="btn btn-secondary btn-lg" href="https://redcap.h3abionet.org/redcap/surveys/?s=C787XMMYNA" role="button" target="_blank">Click here to apply</a>
 
 <h3>Logistics: </h3>
 <hr>
