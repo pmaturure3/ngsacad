@@ -30,7 +30,7 @@ The NGS Academy forms part of the Africa PGI. This initiative is funded by the B
 bioinformatics tools for SARS-CoV-2 NGS data. </p>
 
 <a class="btn btn-secondary btn-lg" href="#" role="button">Click here to apply</a>
-<br>
+
 <h3>Logistics: </h3>
 <hr>
 
@@ -75,10 +75,7 @@ and sharing, advanced bioinformatics analysis, and presenting data to inform pol
 
 </ol>
 
-
 <!-- <b>Course limitations</b>: None -->
-
-<br>
 <b>Course curriculum:</b>
 <hr>
 <ol class="list-unstyled">
